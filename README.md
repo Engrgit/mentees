@@ -1,5 +1,5 @@
-# mentees
- note to mentees
+# To all Mentees 
+
 # Engineering Manager Resources 
  A list of engineering leadership resource links. 
  
